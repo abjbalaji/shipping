@@ -1,5 +1,5 @@
 @Library('roboshop-shared-library@main') _
 
 
-env.COMPONENT="cart"
+env.COMPONENT="shipping"
 maven()
